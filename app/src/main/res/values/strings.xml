@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MidiPlay - MIDI出力テスト</string>
+
+    <string name="button_end">終了</string>
+</resources>
